@@ -64,40 +64,91 @@ I believe in continuous learning and improving through real projects and coding 
 
 ---
 -->
-## 🎯 Featured Projects
-
-### 🎬 [IMDb Clone REST API](https://github.com/yashsaxena15/IMDB-Clone-API)
-A scalable RESTful backend API inspired by IMDb that allows users to explore movie details, ratings, and reviews. The project focuses on designing a clean API architecture with authentication, request throttling, and efficient data handling for real-world backend applications.
-
-**Tech Stack**
-- Python, Django, Django REST Framework, MySQL, Token Authentication
-
-**Key Features**
-- RESTful API design following industry best practices
-- Secure user authentication and authorization
-- CRUD operations for movies, reviews, and ratings
-- API request throttling to prevent abuse and ensure fair usage
-- Pagination support for efficient handling of large datasets
-- Nested serializers for handling relational data
-- Filtering and search functionality for movies
-- Modular Django app architecture for scalability and maintainability
+# 🎯 Featured Projects
 
 ---
 
-### ✅ [Task Management Web Application](https://github.com/yashsaxena15/ToDo-Task)
-A productivity-focused web application that allows users to efficiently manage and track their daily tasks through a clean and simple interface.
+## 🌐 Social Media REST API
 
-**Tech Stack**
-- Python, Django, HTML5, CSS3, MySQL
+> A production-ready social media backend API built with Django REST Framework.
 
-**Key Features**
-- Secure user authentication system
-- Full CRUD functionality for task management
-- Task creation, updating, and deletion
-- Dashboard interface for organizing tasks
-- Form validation and error handling
-- MVT architecture implemented using Django framework
+🔗 [GitHub Repository](https://github.com/yashsaxena15/Social-Media-API)
+
+Supports user authentication, profile management, posts, likes, comments, and follow systems. Focuses on scalable API architecture, clean code practices, and real-world backend development concepts.
+
+### 🛠️ Tech Stack
+
+`Python` `Django` `Django REST Framework` `MySQL` `Token Authentication` `Docker` `Nginx`
+
+### ✨ Key Features
+
+- 🔐 Secure user authentication and authorization
+- 👤 User profile management system
+- 📝 Create, update, and delete posts
+- ❤️ Like and unlike posts
+- 💬 Comment management system
+- 👥 Follow and unfollow users
+- ⚡ Optimized database queries using Django ORM
+- 🏗️ RESTful API design following industry best practices
+- 🐳 Production deployment using Docker, Gunicorn, and Nginx
+- 🗄️ MySQL database integration
+
 ---
+
+## ✅ Task Management Web Application
+
+> A full-stack productivity web application for efficient daily task management.
+
+🔗 [GitHub Repository](https://github.com/yashsaxena15/ToDo-Task)
+
+Enables users to manage daily tasks through a clean and user-friendly interface. Deployed on an Oracle Cloud VM using Docker and Nginx.
+
+### 🛠️ Tech Stack
+
+`Python` `Django` `MySQL` `Docker` `Nginx` `Gunicorn` `HTML5` `CSS3`
+
+### ✨ Key Features
+
+- 🔐 Secure user authentication system
+- 📋 Full CRUD functionality for task management
+- ✏️ Task creation, updating, deletion, and completion tracking
+- 👤 User-specific task management
+- 🐳 Dockerized deployment
+- 🌐 Custom domain configuration with Nginx reverse proxy
+- 🗄️ MySQL database integration
+- ⚡ Production-ready deployment architecture
+
+---
+
+## 🎬 IMDb Clone REST API
+
+> A scalable RESTful backend API inspired by IMDb for movies, ratings, and reviews.
+
+🔗 [GitHub Repository](https://github.com/yashsaxena15/IMDB-Clone-API)
+
+Allows users to explore movie details, ratings, and reviews. Focuses on clean API architecture with authentication, request throttling, and efficient data handling for real-world backend applications.
+
+### 🛠️ Tech Stack
+
+`Python` `Django` `Django REST Framework` `MySQL` `Token Authentication`
+
+### ✨ Key Features
+
+- 🏗️ RESTful API design following industry best practices
+- 🔐 Secure user authentication and authorization
+- 🎥 CRUD operations for movies, reviews, and ratings
+- 🚦 API request throttling and rate limiting
+- 📄 Pagination support for large datasets
+- 🔗 Nested serializers for relational data
+- 🔍 Filtering and search functionality
+- 🧩 Modular Django application architecture
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [https://github.com/yashsaxena15](https://github.com/yashsaxena15)
+- **LinkedIn:** [https://www.linkedin.com/in/yashsaxena15](https://www.linkedin.com/in/yashsaxena15)
 
 ## 🎖️ Coding Profiles
 
