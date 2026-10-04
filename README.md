@@ -1,198 +1,190 @@
-# Hi there, I'm Yash Saxena! 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Yash+Saxena;Python+Backend+Developer.;Django+%26+REST+API+Developer.;DSA+Enthusiast.;Building+Scalable+Web+Applications.;)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00D2FF,50:3A7BD5,100:00223E&height=180&section=header&text=Yash%20Saxena&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D2FF&center=true&vCenter=true&width=560&lines=Junior+Software+Developer+@+IMS+Group;Backend+%26+System+Design+Specialist;Python+%7C+FastAPI+%7C+Django+%7C+React;Building+Scalable+Cloud+Architectures;200%2B+Problems+Solved+on+LeetCode+%26+GFG" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/yashsaxena15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:yashsaxena7828@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com/yash_saxena15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://x.com/yash_saxena15"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="https://github.com/yashsaxena15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 </div>
 
-</div>
+---
 
-Hello! I'm **Yash**, a final-year **Computer Science Engineering student** who is passionate about backend development and building scalable web applications. I enjoy working with **Python, Django, and Django REST Framework** to design clean and efficient backend systems.
+## 👨‍💻 About Me
 
-My main focus is on **backend development**, **REST API design**, and strengthening my **problem-solving skills through Data Structures and Algorithms**. I enjoy building projects, learning new technologies, and understanding how systems work behind the scenes.
+Hello! I'm **Yash Saxena**, currently working as a **Junior Software Developer at IMS Group**. I am a passionate software engineer focused on building robust, high-performance backend systems, distributed microservices, and modern web applications.
 
-I believe in continuous learning and improving through real projects and coding challenges. I have solved **200+ algorithmic problems on LeetCode and GeeksforGeeks**, and I am always looking for opportunities to collaborate on interesting **Python or Django-based projects**.
+- 💼 **Current Role:** Junior Software Developer at **IMS Group**
+- ⚙️ **Core Focus:** Backend Architecture, RESTful API Design, High-Throughput Streaming, and Database Query Optimization
+- 🛠️ **Primary Stack:** Python (FastAPI, Django, Django REST Framework), React, Docker, MySQL, Redis, and MongoDB
+- 🧠 **Problem Solving:** Solved **200+ algorithmic problems** across LeetCode, GeeksforGeeks, and Coding Ninjas with strong foundations in Data Structures & Algorithms
+- ☁️ **DevOps & Cloud:** Hands-on experience with Docker containerization, Nginx reverse proxies, Linux server management, and automated CI/CD pipelines on Oracle Cloud
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
----
-<!--
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsaxena15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaxena15&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**💻 Coding Activity:**
-- 🔥 **200+ Problems Solved** across coding platforms
-- 📅 **Active GitHub Contributor**
-- 🚀 Building backend APIs and web applications
-- ⚡ Practicing Data Structures & Algorithms regularly
+### Backend & API Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![WebDAV](https://img.shields.io/badge/WebDAV-4A90E2?style=for-the-badge&logo=server&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps, Cloud & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
--->
+
 # 🎯 Featured Projects
 
----
-
-## 🌐 Social Media REST API
-
-> A production-ready social media backend API built with Django REST Framework.
-
-🔗 [GitHub Repository](https://github.com/yashsaxena15/Social-Media-API)
-
-Supports user authentication, profile management, posts, likes, comments, and follow systems. Focuses on scalable API architecture, clean code practices, and real-world backend development concepts.
-
-### 🛠️ Tech Stack
-
-`Python` `Django` `Django REST Framework` `MySQL` `Token Authentication` `Docker` `Nginx`
-
-### ✨ Key Features
-
-- 🔐 Secure user authentication and authorization
-- 👤 User profile management system
-- 📝 Create, update, and delete posts
-- ❤️ Like and unlike posts
-- 💬 Comment management system
-- 👥 Follow and unfollow users
-- ⚡ Optimized database queries using Django ORM
-- 🏗️ RESTful API design following industry best practices
-- 🐳 Production deployment using Docker, Gunicorn, and Nginx
-- 🗄️ MySQL database integration
-
----
-
-## ✅ Task Management Web Application
-
-> A full-stack productivity web application for efficient daily task management.
-
-🔗 [GitHub Repository](https://github.com/yashsaxena15/ToDo-Task)
-
-Enables users to manage daily tasks through a clean and user-friendly interface. Deployed on an Oracle Cloud VM using Docker and Nginx.
-
-### 🛠️ Tech Stack
-
-`Python` `Django` `MySQL` `Docker` `Nginx` `Gunicorn` `HTML5` `CSS3`
-
-### ✨ Key Features
-
-- 🔐 Secure user authentication system
-- 📋 Full CRUD functionality for task management
-- ✏️ Task creation, updating, deletion, and completion tracking
-- 👤 User-specific task management
-- 🐳 Dockerized deployment
-- 🌐 Custom domain configuration with Nginx reverse proxy
-- 🗄️ MySQL database integration
-- ⚡ Production-ready deployment architecture
-
----
-
-## 🎬 IMDb Clone REST API
-
-> A scalable RESTful backend API inspired by IMDb for movies, ratings, and reviews.
-
-🔗 [GitHub Repository](https://github.com/yashsaxena15/IMDB-Clone-API)
-
-Allows users to explore movie details, ratings, and reviews. Focuses on clean API architecture with authentication, request throttling, and efficient data handling for real-world backend applications.
-
-### 🛠️ Tech Stack
-
-`Python` `Django` `Django REST Framework` `MySQL` `Token Authentication`
-
-### ✨ Key Features
-
-- 🏗️ RESTful API design following industry best practices
-- 🔐 Secure user authentication and authorization
-- 🎥 CRUD operations for movies, reviews, and ratings
-- 🚦 API request throttling and rate limiting
-- 📄 Pagination support for large datasets
-- 🔗 Nested serializers for relational data
-- 🔍 Filtering and search functionality
-- 🧩 Modular Django application architecture
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Aequosia</h3>
+      <p align="center">
+        <b>Production-Ready Full-Stack Social Media Platform</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/yashsaxena15/Aequosia"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repo" /></a>
+        <a href="https://social-media-api.backendforge.qd.je"><img src="https://img.shields.io/badge/Live-Web_App-success?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://social-media-api.backendforge.qd.je/api/docs/"><img src="https://img.shields.io/badge/API-Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" /></a>
+      </p>
+      <p>
+        A complete, scalable social networking platform built with a <b>Django REST Framework</b> backend and a modern <b>React 18 + Vite SPA</b> styled with Tailwind CSS.
+      </p>
+      <b>Key Architectural Highlights:</b>
+      <ul>
+        <li>🔐 <b>Auth & Security:</b> Persistent JWT authentication via SimpleJWT with Axios interceptors for automatic silent token refreshing.</li>
+        <li>⚡ <b>High Performance:</b> Redis caching layer for feeds/comments and optimized queries using <code>select_related</code> and <code>prefetch_related</code> to eradicate N+1 problems.</li>
+        <li>👥 <b>Rich Social Core:</b> Dynamic profile views (<code>/profile/:username</code>), instant like/comment updates, and a self-referential follower graph.</li>
+        <li>📄 <b>Scalable Pagination:</b> Cursor-based "Load More" pagination for follower lists and global search queries.</li>
+        <li>🚀 <b>Automated CI/CD:</b> GitHub Actions runs 15 test suites, validates frontend builds, SSHs to Oracle VM, rebuilds Docker containers, and applies zero-downtime database migrations on push.</li>
+      </ul>
+      <p>
+        <b>Tech:</b> <code>Python</code> <code>Django 6</code> <code>DRF</code> <code>React 18</code> <code>Vite</code> <code>Tailwind</code> <code>MySQL</code> <code>Redis</code> <code>Docker</code> <code>Nginx</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 TeleStore</h3>
+      <p align="center">
+        <b>Telegram & Google Drive Cloud Storage & Streaming Server</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/yashsaxena15/TeleStore"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repo" /></a>
+        <a href="https://github.com/yashsaxena15/TeleStore#readme"><img src="https://img.shields.io/badge/Docs-Architecture-blue?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" /></a>
+      </p>
+      <p>
+        A modern, self-hosted Cloud Storage and Media Streaming Server powered by <b>FastAPI</b>, <b>React (TypeScript & Vite)</b>, <b>MongoDB</b>, and <b>Pyrogram (MTProto)</b> that turns private Telegram channels into unlimited personal cloud storage.
+      </p>
+      <b>Key Architectural Highlights:</b>
+      <ul>
+        <li>📂 <b>Desktop & Mobile WebDAV Mount:</b> RFC 4918-compliant WebDAV server (<code>/webdav/</code>) to mount the entire Telegram cloud into Windows Explorer (RaiDrive), macOS Finder, or Android (MiXplorer) as a local drive.</li>
+        <li>🎬 <b>Zero-CPU Media Streaming:</b> Streams raw 4K/1080p video directly from Telegram MTProto via HTTP Range requests (<code>206 Partial Content</code>) with on-the-fly multi-audio track switching.</li>
+        <li>📥 <b>Real-time Channel Auto-Sync:</b> Automatic background listener for incoming files and downtime auto catch-up sync.</li>
+        <li>🔄 <b>Bi-Directional Cloud Transfers:</b> Zero-disk cloud-to-cloud file & recursive folder migrations between Google Drive and Telegram.</li>
+        <li>🛡️ <b>Pipelined Chunker & Vault:</b> 1.95 GB multi-part chunking engine for unlimited file sizes, soft-delete Trash/Recycle Bin, and AES-encrypted Private Vault.</li>
+      </ul>
+      <p>
+        <b>Tech:</b> <code>FastAPI</code> <code>Python</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>MongoDB</code> <code>Pyrogram</code> <code>WebDAV</code> <code>FFmpeg</code> <code>Docker</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Contact
-
-- **GitHub:** [https://github.com/yashsaxena15](https://github.com/yashsaxena15)
-- **LinkedIn:** [https://www.linkedin.com/in/yashsaxena15](https://www.linkedin.com/in/yashsaxena15)
-
-## 🎖️ Coding Profiles
+## 📈 GitHub Activity & Stats
 
 <div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yash_saxena15)
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yashsaxena15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaxena15&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yashsaxena15?tab=activity)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaxena15&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
-[![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/yashsaxena)
+---
+
+## 🎖️ Competitive Programming & LeetCode
+
+<div align="center">
+
+<p align="center">
+  <a href="https://leetcode.com/yash_saxena15"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/yashsaxena15?tab=activity"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.naukri.com/code360/profile/yashsaxena"><img src="https://img.shields.io/badge/-Coding_Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" /></a>
+</p>
+
+<a href="https://leetcode.com/yash_saxena15">
+  <img src="https://leetcard.jacoblin.cool/yash_saxena15?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats Card" />
+</a>
 
 </div>
 
 ---
 
-## 📈 LeetCode Stats
+## 🤝 Let's Connect!
 
 <div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/yash_saxena15?theme=dark&font=Baloo%202&ext=heatmap)
 
-</div>
+<a href="https://linkedin.com/in/yashsaxena15"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/yash_saxena15"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:yashsaxena7828@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/yashsaxena15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
----
+<br/><br/>
 
-## 🤝 Let's Connect
+*"Programs must be written for people to read, and only incidentally for machines to execute."*  
+— **Harold Abelson**
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashsaxena15)
+<br/>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yash_saxena15)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsaxena7828@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashsaxena15)
-
-</div>
-
----
-
-<div align="center">
-  
-**"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00223E,50:3A7BD5,100:00D2FF&height=120&section=footer" alt="Footer Banner" width="100%" />
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yashsaxena15.yashsaxena15)
 
