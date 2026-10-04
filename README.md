@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00D2FF,50:3A7BD5,100:00223E&height=180&section=header&text=Yash%20Saxena&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D2FF&center=true&vCenter=true&width=560&lines=Junior+Software+Developer+@+IMS+Group;Backend+%26+System+Design+Specialist;Python+%7C+FastAPI+%7C+Django+%7C+React;Building+Scalable+Cloud+Architectures;200%2B+Problems+Solved+on+LeetCode+%26+GFG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D2FF&center=true&vCenter=true&width=560&lines=Junior+Software+Developer+@+IMS+Group;Backend+%26+System+Design+Specialist;Python+%7C+FastAPI+%7C+Django+%7C+React;Building+Scalable+Cloud+Architectures;" alt="Typing SVG" />
   </a>
 
   <p align="center">
